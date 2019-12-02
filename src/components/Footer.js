@@ -6,7 +6,7 @@ class Footer extends Component {
         return (
            <FootWrapper className="navbar bg-blue navbar-dark px-sm-5">
                 <p className="nav-link text-center col-10 mx-auto my-2 text-center text-title">
-                    Hecho por Zyanya Villalba para Ingenieria Web 2020-1
+                    Hecho por CMJA y VTZD para Ingenieria Web 2020-1
                 </p>
             </FootWrapper>
         );
